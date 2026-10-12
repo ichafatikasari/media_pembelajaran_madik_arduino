@@ -1,0 +1,6 @@
+{
+  "name": "CodePath Arduino Lab - Tantangan Praktik Arduino Uno Kelas 12",
+  "description": "Platform interaktif tantangan praktik Arduino Uno materi lampu lalu lintas dan LED untuk 10 kelompok siswa kelas 12 dilengkapi simulator, editor kode, debugger sintaks, dan penilaian guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
